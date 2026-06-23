@@ -1,0 +1,6 @@
+{
+  "name": "Academic Credit Evaluator",
+  "description": "AI-powered university course evaluation platform that automates syllabus matching, program-to-program credit mapping, and generates official credit transfer reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
